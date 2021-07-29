@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PLANETMEDIA 56\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PLANETMEDIA 56\\.nuget\\packages"
+    ]
+  }
+}

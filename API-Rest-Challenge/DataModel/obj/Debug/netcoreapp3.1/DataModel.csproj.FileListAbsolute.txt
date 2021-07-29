@@ -1,0 +1,8 @@
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
