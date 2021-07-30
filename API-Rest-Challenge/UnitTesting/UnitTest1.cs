@@ -26,8 +26,8 @@ namespace UnitTesting
         {
             string error = "";
             bool res = false;
-
-            List<Citie> cities = ProcessCities.getCities("q=Beau&lat=53.35013&long=-113.41871", out res, out error);
+            string uri = "..\\netcoreapp3.1\\cities_canada-usa.tsv";
+            Suggestions cities = ProcessCities.getCities(uri,"Beau", out error, out res, 53.35013,-113.41871);
             //List<Citie> cities = ProcessCities.getCities("q=Beau", out res, out error);
 
             Assert.IsTrue(res);

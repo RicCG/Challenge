@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DataModel
 {
@@ -13,6 +14,11 @@ namespace DataModel
         public string feat_class { get; set; }
         public int population { get; set; }
         public int distance { get; set; }
+        public double score { get; set; }
 
+    }
+
+    public class Suggestions { 
+        public List<object> suggestions { get; set; }
     }
 }

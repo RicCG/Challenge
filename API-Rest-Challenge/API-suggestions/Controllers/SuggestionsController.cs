@@ -13,13 +13,17 @@ namespace API_suggestions.Controllers
     public class SuggestionsController : Controller
     {
         [HttpGet]
-        public ActionResult<List<Citie>> Get()
+        public ActionResult<Suggestions> Get([FromQuery] string q, double? latitude = null, double? longitude = null)
         {
 
             string error = "";
             bool res = false;
-
-            List<Citie> cities = ProcessCities.getCities("q=Beau&lat=53.35013&long=-113.41871", out res, out error);
+            string uri = "..\\API-suggestions\\bin\\Debug\\netcoreapp3.1\\cities_canada-usa.tsv";
+            Suggestions cities = ProcessCities.getCities(uri, q, out error, out res, latitude, longitude);
+            if (!res || cities.suggestions.Count == 0)
+            {
+                return cities = new Suggestions() { suggestions = new List<object>() };
+            }
             return cities;
         }
     }
