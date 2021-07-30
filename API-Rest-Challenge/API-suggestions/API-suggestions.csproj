@@ -10,5 +10,11 @@
     <ProjectReference Include="..\DataModel\DataModel.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="cities_canada-usa.tsv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 </Project>

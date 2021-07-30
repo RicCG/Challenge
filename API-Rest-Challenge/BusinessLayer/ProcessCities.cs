@@ -17,7 +17,7 @@ namespace BusinessLayer
             try
             {
                 Read data = new Read();
-                if (data.ReadData("..\\netcoreapp3.1\\cities_canada-usa.tsv", out error))
+                if (data.ReadData("..\\API-suggestions\\bin\\Debug\\netcoreapp3.1\\cities_canada-usa.tsv", out error))
                 {
                     string[] filtros = filter.Split("&");
                     if (filtros.Length == 3)

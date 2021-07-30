@@ -25,3 +25,4 @@ C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Debug\netcoreapp3.1\
 C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Debug\netcoreapp3.1\API-suggestions.dll
 C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Debug\netcoreapp3.1\API-suggestions.pdb
 C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Debug\netcoreapp3.1\API-suggestions.genruntimeconfig.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\bin\Debug\netcoreapp3.1\cities_canada-usa.tsv
