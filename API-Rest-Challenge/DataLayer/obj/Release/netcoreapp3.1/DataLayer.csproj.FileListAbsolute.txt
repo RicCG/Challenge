@@ -1,0 +1,12 @@
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\bin\Release\netcoreapp3.1\DataLayer.deps.json
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\bin\Release\netcoreapp3.1\DataLayer.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\bin\Release\netcoreapp3.1\DataLayer.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\bin\Release\netcoreapp3.1\DataModel.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\bin\Release\netcoreapp3.1\DataModel.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\obj\Release\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\obj\Release\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\obj\Release\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\obj\Release\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\obj\Release\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\obj\Release\netcoreapp3.1\DataLayer.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\DataLayer\obj\Release\netcoreapp3.1\DataLayer.pdb

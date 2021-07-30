@@ -1,0 +1,14 @@
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\cities_canada-usa.tsv
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\API-suggestions.exe
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\API-suggestions.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\API-suggestions.deps.json
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\API-suggestions.runtimeconfig.json
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\API-suggestions.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\BusinessLayer.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\DataLayer.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\DataModel.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\BusinessLayer.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\DataModel.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\API-suggestions\obj\Release\netcoreapp3.1\PubTmp\Out\DataLayer.pdb

@@ -18,7 +18,7 @@ namespace API_suggestions.Controllers
 
             string error = "";
             bool res = false;
-            string uri = "..\\API-suggestions\\bin\\Debug\\netcoreapp3.1\\cities_canada-usa.tsv";
+            string uri = "..\\wwwroot\\cities_canada-usa.tsv";
             Suggestions cities = ProcessCities.getCities(uri, q, out error, out res, latitude, longitude);
             if (!res || cities.suggestions.Count == 0)
             {

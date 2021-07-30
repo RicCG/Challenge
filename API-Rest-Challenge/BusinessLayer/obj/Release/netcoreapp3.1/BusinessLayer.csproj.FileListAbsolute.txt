@@ -1,0 +1,14 @@
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.deps.json
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\bin\Release\netcoreapp3.1\BusinessLayer.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\bin\Release\netcoreapp3.1\DataLayer.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\bin\Release\netcoreapp3.1\DataModel.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\bin\Release\netcoreapp3.1\DataLayer.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\bin\Release\netcoreapp3.1\DataModel.pdb
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.dll
+C:\Tmp\GIT\Challenge\API-Rest-Challenge\BusinessLayer\obj\Release\netcoreapp3.1\BusinessLayer.pdb
